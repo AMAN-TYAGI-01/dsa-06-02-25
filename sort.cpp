@@ -130,7 +130,8 @@ void selection(int arr[],int s){
 
     }
   }
-  for(int i=0;i<s;i++){
+  for(int i=0;i<s;i++)
+  {
     cout<<arr[i];
   }
 }
